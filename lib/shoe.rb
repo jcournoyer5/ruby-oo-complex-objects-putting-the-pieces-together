@@ -11,6 +11,6 @@ class Shoe
       
   end
   
-  Shoe.condition == "new"
+  #Shoe.condition == "new"
 
 end 
